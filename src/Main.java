@@ -6,6 +6,6 @@ public class Main {
 
         System.out.println("Enter name: ");
         name = scnr.next();
-        System.out.println("Hello " + name);
+        System.out.println("Hi " + name);
     }
 }
